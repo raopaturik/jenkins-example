@@ -4,7 +4,7 @@ pipeline {
         tools {
         // The M3 maven tool must be already configured in
         // Manage Jenkins -> Global Tool Configuration -> Maven
-        maven 'M2'
+        maven 'M3'
     }
 
     stages {
