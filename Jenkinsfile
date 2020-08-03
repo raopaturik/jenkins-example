@@ -14,7 +14,7 @@ pipeline {
 
             steps {
                 echo 'Build Completed'
-                mvn clean
+              
             }
         }
 
